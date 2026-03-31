@@ -35,6 +35,7 @@ An in-depth analysis of modern social engineering threats, focusing specifically
 **Samarth Mishra** *BTech Computer Science and Engineering (AI & ML) | VIT Bhopal*
 
 GitHub: https://github.com/samarth1008
+
 LinkedIn: (https://www.linkedin.com/in/samarth-mishra-907116376?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 ---
 *This repository was created as part of a comprehensive assessment on digital communication, technical collaboration, and cybersecurity awareness.*
