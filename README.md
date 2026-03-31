@@ -32,10 +32,9 @@ An in-depth analysis of modern social engineering threats, focusing specifically
 * **Documentation:** Markdown, PDF
 
 ## 👨‍💻 Author
-**Ankit Nag** *BTech Computer Science and Engineering (AI & ML) | VIT Bhopal*
+**Samarth Mishra** *BTech Computer Science and Engineering (AI & ML) | VIT Bhopal*
 
-* 🌐 [LinkedIn]-> https://www.linkedin.com/in/ankit-nag-6b580637a
-* 💻 [GitHub]-> https://github.com/ANKIT04042006
-
+GitHub: https://github.com/samarth1008
+LinkedIn: (https://www.linkedin.com/in/samarth-mishra-907116376?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 ---
 *This repository was created as part of a comprehensive assessment on digital communication, technical collaboration, and cybersecurity awareness.*
